@@ -1,24 +1,12 @@
-# README
+Name
+====
+Rails on Railsチュートリアル
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+## Description
+Ruby on Railsの学習で使用したサイト。<br>
 
-* Ruby version
+サイト名：　 　Rails on Railsチュートリアル</br>
+サイトURL： 　https://railstutorial.jp/chapters/toy_app?version=5.1#cha-a_toy_app/</br>
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+内容：　Ruby on Railsを使って簡単なトイアプリを作成。
