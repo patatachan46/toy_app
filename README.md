@@ -1,6 +1,6 @@
 Name
 ====
-Rails on Railsチュートリアル
+toy_app
 
 
 ## Description
